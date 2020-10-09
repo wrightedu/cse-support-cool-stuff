@@ -35,6 +35,10 @@ Cross platform programmer's text editor with all sorts of useful extensions and 
 
 ## User Written Software and Cool Things
 
+### Utils
+
+A collection of  all the short, but useful, little scripts Ryan uses on his Linux systems nearly every day. [GitHub Repo](https://github.com/CodingPenguin1/Utils)
+
 **TODO** find more cool stuff
 
 
