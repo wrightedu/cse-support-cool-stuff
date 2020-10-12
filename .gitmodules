@@ -1,0 +1,3 @@
+[submodule "ryansUtils"]
+	path = ryansUtils
+	url = git@github.com:CodingPenguin1/Utils.git
