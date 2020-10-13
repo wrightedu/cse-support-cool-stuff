@@ -73,6 +73,10 @@ Mostly little tools and aliases for making life in bash easier, with a few cool 
 A collection of  all the short, but useful, little scripts Ryan uses on his Linux systems nearly every day. [GitHub Repo](https://github.com/CodingPenguin1/Utils)
 
 
+### Ryan's Dotfiles
+
+Config files for Ryan's Arch/i3 desktop
+
 **TODO** find more cool stuff
 
 
