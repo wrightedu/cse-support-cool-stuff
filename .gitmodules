@@ -7,3 +7,6 @@
 [submodule "memoryChart"]
 	path = memoryChart
 	url = git@github.com:tux2603/memoryChart.git
+[submodule "ryan-dotfiles"]
+	path = ryan-dotfiles
+	url = https://github.com/CodingPenguin1/dotfiles
