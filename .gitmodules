@@ -10,3 +10,6 @@
 [submodule "ryan-dotfiles"]
 	path = ryan-dotfiles
 	url = https://github.com/CodingPenguin1/dotfiles
+[submodule "facelocker"]
+	path = facelocker
+	url = https://github.com/CodingPenguin1/facelocker
