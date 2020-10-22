@@ -77,6 +77,10 @@ A collection of  all the short, but useful, little scripts Ryan uses on his Linu
 
 Config files for Ryan's Arch/i3 desktop
 
+### Facelocker
+
+Uses your webcam to know when you walk away, automatically locking your Linux system.
+
 **TODO** find more cool stuff
 
 
