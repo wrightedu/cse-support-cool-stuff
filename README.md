@@ -85,6 +85,10 @@ Config files for Ryan's Arch/i3 desktop
 
 Uses your webcam to know when you walk away, automatically locking your Linux system.
 
+### Game Drive Usage
+
+Requires the [Plotly Python module](https://pypi.org/project/plotly/). Shows a nice pretty graph of how much space each of your game libraries is using, and each game in those libraries. You'll want to edit the main method to add your libraries. It should be pretty easy to figure out. Sorry, Ryan was really lazy and didn't add any sort of config file.
+
 **TODO** find more cool stuff
 
 
