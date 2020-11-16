@@ -50,6 +50,10 @@ Command line tool that analyzes your last run command and tries to fix any possi
 
 Cross platform programmer's text editor with all sorts of useful extensions and modules. Basically python of the IDE world. [Home page](https://code.visualstudio.com/)
 
+### You Should Use
+
+Reminds you to use your aliases [GitHub Repo](https://github.com/paysonwallach/fish-you-should-use)
+
 
 **TODO** find more cool stuff
 
