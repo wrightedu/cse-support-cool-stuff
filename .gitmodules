@@ -1,6 +1,6 @@
 [submodule "ryansUtils"]
 	path = ryansUtils
-	url = git@github.com:CodingPenguin1/Utils.git
+	url = https://github.com/CodingPenguin1/Utils.git
 [submodule "owensUtils"]
 	path = owensUtils
 	url = https://github.com/tux2603/QuickLittleUtils.git
@@ -9,7 +9,7 @@
 	url = https://github.com/CodingPenguin1/dotfiles
 [submodule "facelocker"]
 	path = facelocker
-	url = https://github.com/CodingPenguin1/facelocker
+	url = https://github.com/CodingPenguin1/facelocker.git
 [submodule "memoryChart"]
 	path = memoryChart
 	url = https://github.com/tux2603/memoryChart.git
