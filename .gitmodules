@@ -1,6 +1,3 @@
-[submodule "ryansUtils"]
-	path = ryansUtils
-	url = https://github.com/CodingPenguin1/Utils.git
 [submodule "owensUtils"]
 	path = owensUtils
 	url = https://github.com/tux2603/QuickLittleUtils.git
