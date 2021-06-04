@@ -3,7 +3,7 @@
 	url = git@github.com:CodingPenguin1/Utils.git
 [submodule "owensUtils"]
 	path = owensUtils
-	url = git@github.com:tux2603/QuickLittleUtils.git
+	url = https://github.com/tux2603/QuickLittleUtils.git
 [submodule "ryan-dotfiles"]
 	path = ryan-dotfiles
 	url = https://github.com/CodingPenguin1/dotfiles
