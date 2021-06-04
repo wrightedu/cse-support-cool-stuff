@@ -4,12 +4,12 @@
 [submodule "owensUtils"]
 	path = owensUtils
 	url = git@github.com:tux2603/QuickLittleUtils.git
-[submodule "memoryChart"]
-	path = memoryChart
-	url = git@github.com:tux2603/memoryChart.git
 [submodule "ryan-dotfiles"]
 	path = ryan-dotfiles
 	url = https://github.com/CodingPenguin1/dotfiles
 [submodule "facelocker"]
 	path = facelocker
 	url = https://github.com/CodingPenguin1/facelocker
+[submodule "memoryChart"]
+	path = memoryChart
+	url = https://github.com/tux2603/memoryChart.git
