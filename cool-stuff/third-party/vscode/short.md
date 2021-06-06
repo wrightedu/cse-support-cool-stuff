@@ -1,0 +1,1 @@
+Cross platform programmer's text editor with all sorts of useful extensions and modules. Basically python of the IDE world. [Home page](https://code.visualstudio.com/)
