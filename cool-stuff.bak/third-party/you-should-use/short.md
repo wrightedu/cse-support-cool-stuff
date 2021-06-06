@@ -1,1 +1,0 @@
-Reminds you to use your aliases [GitHub Repo](https://github.com/paysonwallach/fish-you-should-use)

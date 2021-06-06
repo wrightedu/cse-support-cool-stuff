@@ -1,1 +1,0 @@
-Useful and interesting pieces of software from various third party sources. All sorts of fun stuff, most of it free!

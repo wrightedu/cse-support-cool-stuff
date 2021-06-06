@@ -1,1 +1,0 @@
-The recommended OS of the CSE Support Team. As a computer engineer or computer scientist, you should mess around with it at least once.  Find a list of popular distributions of Linux [here](https://distrowatch.com/)

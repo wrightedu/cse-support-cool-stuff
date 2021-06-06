@@ -1,1 +1,0 @@
-All sorts of cool free stuff for students, courtesy of GitHub. [Home page](https://education.github.com/pack)

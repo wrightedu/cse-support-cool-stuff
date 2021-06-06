@@ -1,1 +1,0 @@
-Config files for Ryan's Arch/i3 desktop, as well as a demo of git bare repos. [GitHub Repo](https://github.com/CodingPenguin1/dotfiles)

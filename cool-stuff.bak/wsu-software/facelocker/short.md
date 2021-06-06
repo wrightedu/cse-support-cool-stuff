@@ -1,1 +1,0 @@
-Uses your webcam to know when you walk away, automatically locking your Linux system

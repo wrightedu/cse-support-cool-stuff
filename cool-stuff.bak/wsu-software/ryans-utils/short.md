@@ -1,1 +1,0 @@
-A collection of  all the short, but useful, little scripts Ryan uses on his Linux systems nearly every day. [GitHub Repo](https://github.com/CodingPenguin1/Utils)
