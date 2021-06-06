@@ -1,0 +1,1 @@
+A nice GUI interface to git repositories for when you're too lazy to use the command line. The GitHub student pack includes free access to the pro suite. [Home page](https://www.gitkraken.com/)
