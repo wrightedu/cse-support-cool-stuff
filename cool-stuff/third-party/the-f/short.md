@@ -1,0 +1,1 @@
+Command line tool that analyzes your last run command and tries to fix any possible typo. Very nice in general. [GitHub Repo](https://github.com/nvbn/thefuck)
