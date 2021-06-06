@@ -1,0 +1,1 @@
+Used to automatically generate the [cse-support-cool-stuff](https://wrightedu.github.io/cse-support-cool-stuff) site using github actions

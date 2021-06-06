@@ -1,0 +1,1 @@
+An SSH client for your smart phone. Free access to the premium version is available through the GitHub student pack. [Android app](https://play.google.com/store/apps/details?id=com.server.auditor.ssh.client&hl=en), [Apple app](https://apps.apple.com/us/app/termius-ssh-shell-console-terminal/id549039908)

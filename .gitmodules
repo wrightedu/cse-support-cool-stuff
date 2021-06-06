@@ -1,9 +1,0 @@
-[submodule "owensUtils"]
-	path = owensUtils
-	url = https://github.com/tux2603/QuickLittleUtils.git
-[submodule "facelocker"]
-	path = facelocker
-	url = https://github.com/CodingPenguin1/facelocker.git
-[submodule "memoryChart"]
-	path = memoryChart
-	url = https://github.com/tux2603/memoryChart.git
