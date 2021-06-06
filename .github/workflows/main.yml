@@ -20,4 +20,5 @@ jobs:
           python3 ./generate-site/generate-site.py
           git add index.md
           git commit -m 'Auto generated site index'
-          git push origin `git subtree split --prefix=./ main`:gh-pages --force
+          cd ..
+          git push origin `git subtree split --prefix=cool-stuff main`:gh-pages --force
