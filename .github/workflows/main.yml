@@ -19,4 +19,4 @@ jobs:
           git add index.md
           git commit -m 'Auto generated site index'
           cd ..
-          git push origin `git subtree split --prefix=cool-stuff main`:gh-pages --force
+          git push origin `git subtree split --prefix=cool-stuff main --ignore-join --rejoin`:gh-pages --force
