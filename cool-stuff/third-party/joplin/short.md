@@ -1,0 +1,1 @@
+[Joplin](https://joplinapp.org/) is an open source note-taking app. Notes are written in Markdown, but can be exported to All sorts of other formats. Has a desktop, terminal, and mobile app. Cloud syncs to your choice of cloud storage provider.
