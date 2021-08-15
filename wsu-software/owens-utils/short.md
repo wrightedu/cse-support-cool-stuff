@@ -1,0 +1,1 @@
+Mostly little tools and aliases for making life in bash easier, with a few cool utility programs thrown in. [GitHub Repo](https://github.com/tux2603/QuickLittleUtils)
